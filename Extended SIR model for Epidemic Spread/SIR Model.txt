@@ -1,0 +1,14 @@
+this project is my past work on the unit FIT3139: Computational science and Modelling and it showcases the ability of
+taking an existing deterministic model and further extending it so that it showcases a more complicated model. 
+furthermore, this project also done an analysis on discrete time and continious time. for my extension of this existing SIR model, i chosed it so that
+it can account vaccination rate so that it could show a better understanding on this epidemic spread. on the analysis i provided, 
+i listed a bunch of assumption on this project to minimizes unwanted factor and the reason for each assumption is explained. 
+
+After listing all the assumption, i then uses analyses the newly extended model on continious and discrete time while breaking down the 
+main question listed in question 1 by introducing a smaller sub-problem. by answering question 2 and 3, we get a better understanding on
+the problem the main question poses. furthermore on both of these number we put the model under few different condition and compare the 
+two analysis to find further differences. 
+
+In the fourth question, we done a steady state analysis to find the breakpoint of the model and we find out whether this model has a steady state or not.
+by doing this, we get a better idea until what day can we expect the lifecycle of an epidemic outbreak and it is also to test whether the model is functioning
+as intended.
